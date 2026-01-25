@@ -1,0 +1,10 @@
+*
+!.gitignore
+!data/
+data/*
+!scripts/
+scripts/*
+!data/raw/
+data/raw/*
+!scripts/*
+!data/raw/*
